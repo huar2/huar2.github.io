@@ -31,9 +31,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Raymond Hua
-subtitle: Portfolio
+subtitle:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Raymond Hua's portfolio
+  Raymond Hua's portfolio
 author: Raymond Hua
 email: rayrayhua@outlook.com
 avatar: assets/images/avatar.jpg
