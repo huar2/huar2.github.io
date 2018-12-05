@@ -4,8 +4,7 @@ icon: fa-book
 order: 4
 ---
 
-**Otago Polytechnic, Dunedin - Bachelor of Information Technology**
-
+**Otago Polytechnic, Dunedin - Bachelor of Information Technology** <br>
 **2016-2018**
 * Developing new skills and situations of the IT industry.
 * Being in am I.T focused environment making client applications.
