@@ -8,4 +8,4 @@ order: 6
 | ------------- |-------------|
 | Otago Polytechnic | Otago Polytechnic |
 | +64 27 4255 325 | +64 21 0291 3749 |
-| adon.moskal@op.ac.nz | david.rozado@op.ac.nz |
+| [adon.moskal@op.ac.nz](mailto:adon.moskal@op.ac.nz) | [david.rozado@op.ac.nz](mailto:david.rozado@op.ac.nz) |
