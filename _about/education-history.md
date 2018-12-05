@@ -11,8 +11,7 @@ order: 4
 * Being in am I.T focused environment making client applications.
 * Learning from others who had different I.T. knowledge and background.
 	
-*Third year project - Web development*	
-
+*Third year project - Web development*	<br>
 *2018*
 * Developed a full stack web application for a client.
 * Use data from an American news website over the past thirty years.
@@ -23,16 +22,14 @@ order: 4
 * Find similarity between two words and the frequency of use.
 * Used Django as a web framework.
 
-*Web project – Data visualization*
-
+*Web project – Data visualization* <br>
 *2018*
 * Developed two identical front-end websites using different frameworks.
 * Displays a bar graph of a selected country and their population for every five years.
 * Displays graph information using an AJAX call to an API.
 * Used Flask and Node.js as web frameworks.
 
-*Web project – Quiz site*
-
+*Web project – Quiz site* <br>
 *2018*
 * Developed a quiz website with two different user groups, player and admin.
 * Admin users can create tournaments, after creating it the back-end fetches an API of quiz data and stores it into the database of the tournament.
