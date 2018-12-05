@@ -1,20 +1,20 @@
 ---
 title: Work History
 icon: fa-book
-order: 4
+order: 5
 ---
 
-I love books! Here are some I'm reading now:
+**Mosgiel Community Learning Centre**
+**2018*
+*Volunteer*
+* Helping people from the community with limited technical skills to use their phones, laptops and other devices.
+* Really enjoyed being patient and working with people so they could be confident with their devices.
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+**Veggie Boys**
+*2013-2018*
+*Team leader, shift supervisor*
+* Organising staff functions and activities. 
+* Keeping co-workers informed of what’s happening.
+* Supervising and looking after co-workers.
+* Serving customers at the counter.
+* Responding customer enquiries in a nice, friendly matter.

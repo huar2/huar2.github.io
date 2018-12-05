@@ -1,7 +1,7 @@
 ---
-title: Education History
+title: Introduction
 icon: fa-book
-order: 4
+order: 1
 ---
 
 **Otago Polytechnic, Dunedin - Bachelor of Information Technology**

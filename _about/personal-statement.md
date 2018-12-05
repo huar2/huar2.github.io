@@ -1,7 +1,7 @@
 ---
 title: Personal Statement
 icon: fa-book
-order: 1
+order: 2
 ---
 
 I am a 
