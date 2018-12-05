@@ -10,7 +10,7 @@ order: 5
 * Helping people from the community with limited technical skills to use their phones, laptops and other devices.
 * Really enjoyed being patient and working with people so they could be confident with their devices.
 
-<b>Veggie Boys</b>
+<b>Veggie Boys</b><br>
 *2013-2018* <br>
 *Team leader, shift supervisor*
 * Organising staff functions and activities. 
