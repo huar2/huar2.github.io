@@ -4,14 +4,13 @@ icon: fa-book
 order: 5
 ---
 
-**Mosgiel Community Learning Centre** <br>
+<b>Mosgiel Community Learning Centre</b><br>
 *2018* <br>
 *Volunteer*
 * Helping people from the community with limited technical skills to use their phones, laptops and other devices.
 * Really enjoyed being patient and working with people so they could be confident with their devices.
 
-__Veggie Boys__
-
+<b>Veggie Boys</b>
 *2013-2018* <br>
 *Team leader, shift supervisor*
 * Organising staff functions and activities. 
