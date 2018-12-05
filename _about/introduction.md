@@ -4,10 +4,7 @@ icon: fa-book
 order: 1
 ---
 
-027 813 9659
-
-rayrayhua@outlook.com
-
-linkedin.com/in/raymondhua
-
-github.com/raymondhua
+027 813 9659 <br>
+rayrayhua@outlook.com <br>
+linkedin.com/in/raymondhua <br>
+github.com/raymondhua <br>
