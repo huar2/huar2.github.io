@@ -1,7 +1,5 @@
 ---
 title: Education History
-subtitle: a list of books I read
-layout: "page"
 icon: fa-book
 order: 2
 ---

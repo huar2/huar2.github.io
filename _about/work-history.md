@@ -1,6 +1,5 @@
 ---
 title: Work History
-layout: "page"
 icon: fa-book
 order: 3
 ---
