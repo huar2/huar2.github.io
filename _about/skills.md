@@ -1,7 +1,7 @@
 ---
 title: Skills
 icon: fa-book
-order: 1
+order: 2
 ---
 
 I love books! Here are some I'm reading now:

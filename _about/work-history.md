@@ -1,7 +1,7 @@
 ---
 title: Work History
 icon: fa-book
-order: 3
+order: 4
 ---
 
 I love books! Here are some I'm reading now:
