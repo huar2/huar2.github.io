@@ -1,7 +1,8 @@
 ---
-title: Download CV
+title: View CV on OneDrive
 icon: fa-book
-order: 4
+order: 7
 ---
 
-[Download here](https://1drv.ms/w/s!ArASGpZYr_kx_RqBFrkBFx0iFc8_)
+You can also download my CV by clicking the link below.<br>
+[Click here](https://1drv.ms/w/s!ArASGpZYr_kx_RqBFrkBFx0iFc8_)
