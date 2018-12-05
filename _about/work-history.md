@@ -5,12 +5,12 @@ order: 5
 ---
 
 **Mosgiel Community Learning Centre** <br>
-**2018* <br>
+*2018* <br>
 *Volunteer*
 * Helping people from the community with limited technical skills to use their phones, laptops and other devices.
 * Really enjoyed being patient and working with people so they could be confident with their devices.
 
-**Veggie Boys**
+__Veggie Boys__
 
 *2013-2018* <br>
 *Team leader, shift supervisor*
