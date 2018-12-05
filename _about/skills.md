@@ -1,8 +1,9 @@
 ---
-title: Work History
+title: Skills
+subtitle: a list of books I read
 layout: "page"
 icon: fa-book
-order: 5
+order: 1
 ---
 
 I love books! Here are some I'm reading now:

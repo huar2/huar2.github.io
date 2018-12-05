@@ -1,9 +1,8 @@
 ---
-title: Education History
-subtitle: a list of books I read
+title: Work History
 layout: "page"
 icon: fa-book
-order: 4
+order: 3
 ---
 
 I love books! Here are some I'm reading now:
