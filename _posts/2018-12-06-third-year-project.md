@@ -3,6 +3,7 @@ title: Third year project - Media Analytics
 author: Raymond Hua
 layout: post
 icon: fa-lightbulb-o
+categories: project
 ---
 
 **Summary**
