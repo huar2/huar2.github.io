@@ -11,6 +11,6 @@ order: 4
 * Learning from others who had different I.T. knowledge and background.
 
 **King’s High School, Dunedin** <br>
-**2010-2014**
+**2010-2014**<br>
 Highlights Include:
 * Helping teachers and students with I.T issues (e.g. laptop crashing, software issues).
