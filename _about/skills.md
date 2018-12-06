@@ -1,6 +1,6 @@
 ---
 title: Skills
-icon: fa-book
+icon: fa-database
 order: 3
 ---
 
