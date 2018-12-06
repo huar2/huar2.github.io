@@ -1,6 +1,6 @@
 ---
 layout: about
 title: CV
-icon: fa-pencil
+icon: fa-address-card
 order: 2
 ---

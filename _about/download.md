@@ -1,6 +1,6 @@
 ---
 title: View CV on OneDrive
-icon: fa-book
+icon: fa-download
 order: 7
 ---
 

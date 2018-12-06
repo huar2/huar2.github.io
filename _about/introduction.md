@@ -1,6 +1,6 @@
 ---
 title: Raymond Hua
-icon: fa-book
+icon: fa-id-card
 order: 1
 ---
 

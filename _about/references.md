@@ -1,6 +1,6 @@
 ---
 title: References
-icon: fa-book
+icon: fa-address-book
 order: 6
 ---
 
