@@ -10,7 +10,6 @@ categories: project
 * Fetches the API from Google Cloud Translator.
 * Outputs the the translated word in English.
 
-
 ## Screenshots
 
 
