@@ -56,10 +56,10 @@ How frequent the word **"dvd"** was used in the New York Times between 2006 and 
 
 ### NLP
 Search page<br>
-<img src="{{ site.baseurl }}/assets/images/mediaanalytics/timeline/nlp_home.png" alt="image not found" width="50%">
+<img src="{{ site.baseurl }}/assets/images/mediaanalytics/nlp/nlp_home.png" alt="image not found" width="50%">
 
 Output page<br>
-<img src="{{ site.baseurl }}/assets/images/mediaanalytics/timeline/output.png" alt="image not found" width="70%">
+<img src="{{ site.baseurl }}/assets/images/mediaanalytics/nlp/output.png" alt="image not found" width="70%">
 
 ## Repository
 If you want to see how the the site works, please send me your Github username so I can add you as a guest.
