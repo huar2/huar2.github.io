@@ -46,6 +46,9 @@ Look up all previously marked labs using their student ID number<br>
 View all the marked labs for a student<br>
 <img src="{{ site.baseurl }}/assets/images/checkpoint/student/view_checkpoints.png" alt="image not found" width="50%">
 
+### Software used
+HTML, CSS, PHP, JavaScript, MySQL
+
 ## Repository
 If you want to see how the the site works, please send me your Github username so I can add you as a guest.
 

@@ -13,5 +13,8 @@ categories: project
 ## Screenshots
 <img src="{{ site.baseurl }}/assets/images/translator/1.png" alt="image not found" width="50%">
 
+### Software used
+Android Studio, Java
+
 ## Repository
 If you want to see how the the site works, please send me your Github username so I can add you as a guest.

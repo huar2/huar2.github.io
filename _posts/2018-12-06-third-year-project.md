@@ -8,9 +8,11 @@ categories: project
 ## About
 * Developed a full stack web application for a client.
 * Used data scraped CSV files from an American news website over the past thirty years.
+* Manipulated the datasets into a database.
+* Can search for articles that are in the database.
 * Users can search and returns a list of news articles containing certain words.
 * Trained data into word vector models using natural language processing.
-* Displays a statistics graph of how frequently the word is used overtime.
+* Display a d3.js line graph of how frequently the word is used overtime.
 * Find which words are the odd one out and returns it.
 * Find similarity between two words and the frequency of use.
 * Display a TSNE graph of time of how close the words are.
@@ -29,10 +31,10 @@ All articles<br>
 Article<br>
 <img src="{{ site.baseurl }}/assets/images/mediaanalytics/home/article.png" alt="image not found" width="50%">
 
-All authors in the database<br>
+All of the authors in the database<br>
 <img src="{{ site.baseurl }}/assets/images/mediaanalytics/home/home_author.png" alt="image not found" width="50%">
 
-All sections in the database<br>
+All of the sections in the database<br>
 <img src="{{ site.baseurl }}/assets/images/mediaanalytics/home/home_section.png" alt="image not found" width="50%">
 
 ### Timeline
@@ -62,8 +64,18 @@ Output page<br>
 Comparing years 1970 to 2017<br>
 <img src="{{ site.baseurl }}/assets/images/mediaanalytics/nlp/output.png" alt="image not found" width="70%">
 
+## Software used
+JavaScript, CSS, HTML, Bootstrap, Sass, d3.js, Python
+
+### Python packages
+scikit-learn, genism, Matplotlib, Django
+
 ## Repository
 If you want to see how the the site works, please send me your Github username so I can add you as a guest.
 
 ## Access
 If you want to try out the project yourself, you can email me at rayrayhua@outlook.com.
+
+### Resources
+[New York Times](https://www.nytimes.com/)
+[gensim](https://radimrehurek.com/gensim/)
