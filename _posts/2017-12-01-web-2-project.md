@@ -50,4 +50,4 @@ View all the marked labs for a student<br>
 If you want to see how the the site works, please send me your Github username so I can add you as a guest.
 
 ## Access
-If you want to try out the project yourself as a student you can click here (chose any names you want)
+If you want to try out the project yourself as a student, you can [click here](http://kate.ict.op.ac.nz/~huar2/Project/Student/addCheckpoint.html.php)

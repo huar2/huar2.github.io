@@ -65,5 +65,4 @@ Output page<br>
 If you want to see how the the site works, please send me your Github username so I can add you as a guest.
 
 ## Access
-If you want to try out the project yourself you can email me at rayrayhua@outlook.com
-
+If you want to try out the project yourself, you can email me at rayrayhua@outlook.com
