@@ -65,7 +65,7 @@ Comparing years 1970 to 2017<br>
 <img src="{{ site.baseurl }}/assets/images/mediaanalytics/nlp/output.png" alt="image not found" width="70%">
 
 ## Software used
-JavaScript, CSS, HTML, Bootstrap, Sass, d3.js, Python
+JavaScript, CSS, HTML, Bootstrap, Sass, d3.js, Python, MySQL, SQL Server
 
 ### Python packages
 scikit-learn, genism, Matplotlib, Django
