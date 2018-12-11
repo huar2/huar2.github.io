@@ -15,6 +15,7 @@ categories: project
 * Find similarity between two words and the frequency of use.
 * Display a TSNE graph of time of how close the words are.
 * Used Django as a web framework.
+* Used Python packages scikit-learn and gensim.
 
 ## Screenshots
 
@@ -37,6 +38,23 @@ All sections in the database<br>
 ### Timeline
 Search page<br>
 <img src="{{ site.baseurl }}/assets/images/mediaanalytics/timeline/timeline_home.png" alt="image not found" width="50%">
+
+How frequently these words were used in the New York Times between 1970 and 2017<br>
+<img src="{{ site.baseurl }}/assets/images/mediaanalytics/timeline/words.png" alt="image not found" width="50%">
+
+...<br>
+<img src="{{ site.baseurl }}/assets/images/mediaanalytics/timeline/words2.png" alt="image not found" width="50%">
+
+How frequent the word **"trump"** was used in the New York Times between 1970 and 2017<br>
+<img src="{{ site.baseurl }}/assets/images/mediaanalytics/timeline/words.png" alt="image not found" width="50%">
+
+How frequent the word **"terrorism"** was used in the New York Times between 1970 and 2017<br>
+<img src="{{ site.baseurl }}/assets/images/mediaanalytics/timeline/words.png" alt="image not found" width="50%">
+
+How frequent the word **"dvd"** was used in the New York Times between 2006 and 2017<br>
+<img src="{{ site.baseurl }}/assets/images/mediaanalytics/timeline/dvd.png" alt="image not found" width="50%">
+
+### NLP
 
 ## Repository
 If you want to see how the the site works, please send me your Github username so I can add you as a guest.
