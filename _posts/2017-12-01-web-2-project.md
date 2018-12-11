@@ -24,14 +24,14 @@ All students and checkpoints marked<br>
 <img src="{{ site.baseurl }}/assets/images/checkpoint/teacher/allCheckpoints.png" alt="image not found" width="50%">
 
 Delete student<br>
-<img src="{{ site.baseurl }}/assets/images/checkpoint/teacher/delete_student.png" alt="image not found" width="50%">
+<img src="{{ site.baseurl }}/assets/images/checkpoint/teacher/delete_students.png" alt="image not found" width="50%">
 
 Scatter graph<br>
-<img src="{{ site.baseurl }}/assets/images/checkpoint/teacher/scatter graph.png" alt="image not found" width="50%">
+<img src="{{ site.baseurl }}/assets/images/checkpoint/teacher/scatter_graph.png" alt="image not found" width="50%">
 
 ### Student
 Marking off the checkpoint<br>
-<img src="{{ site.baseurl }}/assets/images/checkpoint/student/login.png" alt="image not found" width="50%">
+<img src="{{ site.baseurl }}/assets/images/checkpoint/student/home.png" alt="image not found" width="50%">
 
 Feedback page<br>
 <img src="{{ site.baseurl }}/assets/images/checkpoint/student/slider1.png" alt="image not found" width="50%">
