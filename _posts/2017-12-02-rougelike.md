@@ -21,7 +21,7 @@ Look up all previously marked labs using their student ID number<br>
 
 
 ### Software used
-C+
+C++
 
 ## Repository
 If you want to see how the the site works, please send me your Github username so I can add you as a guest.
